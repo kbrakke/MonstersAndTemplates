@@ -48,7 +48,7 @@ Early Tier - Standard Supporter Woad
 
 ### Movement
 
-***Tree Glide.*** The Woad Warrior teleports to any difficult terrain made by any Woad within 25 squares.
+***Tree Glide.*** The Woad Shaman teleports to any difficult terrain made by any Woad within 25 squares.
 
 ### Minor Actions
 | Command Vine | |
