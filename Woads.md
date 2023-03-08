@@ -18,8 +18,8 @@ Early Tier - Standard Supporter Woad
 |40 | d6+d8 | d6+d8 | 2 | 6 | Medium |
   
 ## Passive Abilities
-***Tree Stride.*** All Woads ignore difficult terrain created by Woads
-***Literally Made of Wood.*** The Woad shaman is vulnerable to fire damage. 
+- ***Tree Stride.*** All Woads ignore difficult terrain created by Woads
+- ***Literally Made of Wood.*** The Woad shaman is vulnerable to fire damage. 
 
 ## Actions
 
@@ -75,9 +75,10 @@ Early Tier - Standard Supporter Woad
 |32 | d6+d8 | d6+d8 | 1 | 6 | Medium |
   
 ## Passives
-***Literally Made of Wood.*** The Woad Caller is vulnerable to Fire.
-***Tree Stride.*** All Woads ignore difficult terrain created by Woads
-***The Song of the Deep Woods.*** At the start of battle a Woad Caller begins with the song of the deep woods on 0. Once the song reaches 5, the caller collapses to the ground, and from its corpse, an Aspect of the Deep Woods emerges. It takes a turn immediately. At the beginning of the next round it rolls initiative.
+- ***Literally Made of Wood.*** The Woad Caller is vulnerable to Fire.
+- ***Tree Stride.*** All Woads ignore difficult terrain created by Woads
+- ***The Song of the Deep Woods.*** At the start of battle a Woad Caller begins with the song of the deep woods on 0. Once the song reaches 5, the caller collapses to the ground, and from its corpse, an Aspect of the Deep Woods emerges. It takes a turn immediately. At the beginning of the next round it rolls initiative.
+
 ## Actions
 
 ### Attacks
@@ -128,10 +129,10 @@ Early Tier Commander Wall
 | 50 | 2d6 | 2d6 | 4 | 4 | Medium
 
 ## Passive Abilities
-***Large Presence.*** The Woad Warrior is considered to be Size Large for the Effects of Powers and abilities. This affects forced movement, among other things.
-***Tree Stride.*** All Woads ignore difficult terrain created by Woads
-***Literally Made of Wood.*** The Woad Warrior is Vulnerable to Fire
-***But also, Literally Made of Wood.*** The Woad Warrior gets +1 to its defense (Already included in the stat block)
+- ***Large Presence.*** The Woad Warrior is considered to be Size Large for the Effects of Powers and abilities. This affects forced movement and range, among other things.
+- ***Tree Stride.*** All Woads ignore difficult terrain created by Woads
+- ***Literally Made of Wood.*** The Woad Warrior is Vulnerable to Fire
+- ***But also, Literally Made of Wood.*** The Woad Warrior gets +1 to its defense (Already included in the stat block)
 
 ## Actions
 
