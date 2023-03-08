@@ -1,3 +1,61 @@
+# Table of Contents
+- [Woad Caller](#woad-caller)
+- [Woad Shaman](#woad-shaman)
+- [Woad Warrior](#woad-warrior)
+
+# Woad Caller
+## Stats
+
+| Stats | Die | Skills | die|
+|-|-|-|-|
+| Strength | d6 | Athletics | d4 |
+| Agility | d6 | Insight | d6 |
+| Vitality | d6 | Investigation | d6 |
+| Intelligence| d6 | Perception | d6 |  
+| Wisdom |d10 | Persuasion | d4 |
+| Charisma | d6 |
+
+|Hit Points |Initiative |Will |Defense |Speed  |Size|
+|-|-|-|-|-|-|
+|32 | d6+d8 | d6+d8 | 1 | 6 | Medium |
+  
+## Passives
+- ***Literally Made of Wood.*** The Woad Caller is vulnerable to Fire.
+- ***Tree Stride.*** All Woads ignore difficult terrain created by Woads
+- ***The Song of the Deep Woods.*** At the start of battle a Woad Caller begins with the song of the deep woods on 0. Once the song reaches 5, the caller collapses to the ground, and from its corpse, an Aspect of the Deep Woods emerges. It takes a turn immediately. At the beginning of the next round it rolls initiative.
+
+## Actions
+
+### Attacks
+
+|***Sucker Punch*** | ***(Limited 1)*** |
+|-|-|
+| Range | 1 |
+| Damage | 2d6
+| Description | The Woad points over your shoulder, when you turn to look it tries to clock you |
+| Effect | You suspect these woads are not exactly nice creatures |
+
+
+| Hallow | |
+|-|-|
+| Range | - |
+| Damage | - |
+| Descripton | Several rings of flowers appear around the battlefield |
+| Effect | For each distinct area of difficult terrain created by a Woad, one square becomes a ritual site. Then For each other Woad, the space undereath them becomes difficult terrain, and becomes a ritual site
+
+
+### Movement
+
+***Tree Glide.*** The Woad Caller teleports to any difficult terrain made by any Woad within 25 squares.
+
+### Minor Actions
+| Call upon the Woods | |
+|-|-|
+|Range|-|
+| Damage | - |
+| Description | A haunting melody emerges from every part of this creature, the sounds of the forest appear, but for a moment. It sounds like a verse in a song as old as time |
+| Effect | If the Woad Caller is on an un-used ritual location, the song progreses one space foward and that ritual location becomes used|
+
 # Woad Shaman
 
 Early Tier - Standard Supporter Woad
@@ -57,59 +115,6 @@ Early Tier - Standard Supporter Woad
 | Damage | 2d4 |
 | Descriptoin | A fresh thorn covered vine launches from the ground to restrain you |
 | Effect | You are immobilized again, per the effect of the Entangle Spell|
-
-# Woad Caller
-## Stats
-
-| Stats | Die | Skills | die|
-|-|-|-|-|
-| Strength | d6 | Athletics | d4 |
-| Agility | d6 | Insight | d6 |
-| Vitality | d6 | Investigation | d6 |
-| Intelligence| d6 | Perception | d6 |  
-| Wisdom |d10 | Persuasion | d4 |
-| Charisma | d6 |
-
-|Hit Points |Initiative |Will |Defense |Speed  |Size|
-|-|-|-|-|-|-|
-|32 | d6+d8 | d6+d8 | 1 | 6 | Medium |
-  
-## Passives
-- ***Literally Made of Wood.*** The Woad Caller is vulnerable to Fire.
-- ***Tree Stride.*** All Woads ignore difficult terrain created by Woads
-- ***The Song of the Deep Woods.*** At the start of battle a Woad Caller begins with the song of the deep woods on 0. Once the song reaches 5, the caller collapses to the ground, and from its corpse, an Aspect of the Deep Woods emerges. It takes a turn immediately. At the beginning of the next round it rolls initiative.
-
-## Actions
-
-### Attacks
-
-|***Sucker Punch*** | ***(Limited 1)*** |
-|-|-|
-| Range | 1 |
-| Damage | 2d6
-| Description | The Woad points over your shoulder, when you turn to look it tries to clock you |
-| Effect | You suspect these woads are not exactly nice creatures |
-
-
-| Hallow | |
-|-|-|
-| Range | - |
-| Damage | - |
-| Descripton | Several rings of flowers appear around the battlefield |
-| Effect | For each distinct area of difficult terrain created by a Woad, one square becomes a ritual site. Then For each other Woad, the space undereath them becomes difficult terrain, and becomes a ritual site
-
-
-### Movement
-
-***Tree Glide.*** The Woad Caller teleports to any difficult terrain made by any Woad within 25 squares.
-
-### Minor Actions
-| Call upon the Woods | |
-|-|-|
-|Range|-|
-| Damage | - |
-| Description | A haunting melody emerges from every part of this creature, the sounds of the forest appear, but for a moment. It sounds like a verse in a song as old as time |
-| Effect | If the Woad Caller is on an un-used ritual location, the song progreses one space foward and that ritual location becomes used|
 
 # Woad Warrior
 Early Tier Commander Wall
